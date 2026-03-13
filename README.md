@@ -1,4 +1,4 @@
-# ecom-db
+# E-Commerce Website Database Schema
 
 A simple MySQL based project to manage an e-commerce platform including users, products, orders, payments, and deliveries.
 
