@@ -7,7 +7,7 @@ A simple MySQL based project to manage an e-commerce platform including users, p
 - Add and manage product records
 - Manage customer accounts
 - Track orders and payments
-- Update delivery status and order history
+- Update delivery status and order historY
 
 ## Tech Stack
 - MySQL 8.0
